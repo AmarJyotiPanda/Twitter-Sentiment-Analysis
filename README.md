@@ -9,12 +9,16 @@ For training the models, we provide a labelled dataset of 31,962 tweets. The dat
 
 
 🚀Libraries🚀
-pandas
-matplotlib
-seaborn
-scikit-learn
-Algorithms
+
+1>pandas
+2>matplotlib
+3>seaborn
+4>scikit-learn
+
+🚀Algorithms🚀
+
 Logistic Regression
+
 Best Model Accuracy: 95.00
 
  
